@@ -1,0 +1,12 @@
+{
+  "name": "hiroshima_tile_TMS",
+  "version": "1.0.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "11",
+  "maxzoom": "17",
+  "bounds": "132.39002000,34.33260418,132.52719878,34.42782800",
+  "scale": "1",
+  "profile": "mercator"
+}
